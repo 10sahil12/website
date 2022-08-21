@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: veer2/app12
+        image: sahil1012/project
         ports:
         - containerPort: 80
